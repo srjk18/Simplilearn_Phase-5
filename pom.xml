@@ -65,6 +65,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>springb-studemng-dokrfile</finalName>
 	</build>
 
 </project>
